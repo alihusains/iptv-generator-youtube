@@ -1,1 +1,89 @@
-[]
+[
+  {
+    "id": "",
+    "name": "Al Kafeel TV",
+    "alt_names": [
+      ""
+    ],
+    "network": "",
+    "owners": [
+      ""
+    ],
+    "country": "AR",
+    "subdivision": "",
+    "city": "Buenos Aires",
+    "broadcast_area": [
+      ""
+    ],
+    "languages": [
+      "spa"
+    ],
+    "categories": [
+      "Iraq"
+    ],
+    "is_nsfw": false,
+    "launched": "2016-07-28",
+    "closed": "2020-05-31",
+    "replaced_by": "",
+    "website": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1746825364/ei/NBweaI2zEuy-kucP68uk6Q0/ip/172.190.214.19/id/S2iw83RmX-Y.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hls_chunk_host/rr1---sn-vgqsknzy.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AecWEAYi1vapWGt2oIYCuKeI7FfwgnksvAekOs5eYLkiEbDM6zlFtpTwwBAhxXBO8x5AW0vQyDjx25X4/spc/wk1kZon4T3RHCzM9eeB3P6epzE7Zi6BXE8pmuhMquWj4wkQbDWAXg10ENFjhlxw/vprv/1/playlist_type/LIVE/met/1746803764,/mh/3U/mm/44/mn/sn-vgqsknzy/ms/lva/mv/u/mvi/1/pl/23/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912/mt/1746803126/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIhAN56DWbP_f8qAXLINA5iukkJN_g9fG7Do971WMKpZA23AiA2ZiXeheflv1eW3eUUKkEVePBAaDN1fSOqb40izTZbOw%3D%3D/lsparams/hls_chunk_host,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/ACuhMU0wRgIhAPRrXwtdiOCJjdEo3i_6rCIA70gCd75ZWZFSB_eJIqtvAiEAuBB4mM9S-LdSB3XVpZd_OGmkAxlNgHecJWrfPn5nH0A%3D/playlist/index.m3u8",
+    "logo": "https://alkafeel.tv/logo.ico"
+  },
+  {
+    "id": "",
+    "name": "Holy Kaaba Live (Mecca)",
+    "alt_names": [
+      ""
+    ],
+    "network": "",
+    "owners": [
+      ""
+    ],
+    "country": "AR",
+    "subdivision": "",
+    "city": "Buenos Aires",
+    "broadcast_area": [
+      ""
+    ],
+    "languages": [
+      "spa"
+    ],
+    "categories": [
+      "Saudi Arabia"
+    ],
+    "is_nsfw": false,
+    "launched": "2016-07-28",
+    "closed": "2020-05-31",
+    "replaced_by": "",
+    "website": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1746825365/ei/NRweaIi5BveDkucPkN_w-AE/ip/172.190.214.19/id/eJNWHKld5E8.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr3---sn-vgqsknz7.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AecWEAZyjL2gbdc7O6yB4rC6aR5upse9XQ6ou27UCXsGwcvSLgGradW6eylZGPy3KRpVYIPFCSsMm-Vo/spc/wk1kZkkhPDIYaLXPiFJV69JSUwCJGNZNFo0HUihhYvULxbt8azgGg1qT6LVMUschGjY/vprv/1/playlist_type/DVR/met/1746803765,/mh/kW/mm/44/mn/sn-vgqsknz7/ms/lva/mv/u/mvi/3/pl/23/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51466698/mt/1746803126/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRgIhAPG6jNf9D3jx2HWO_0hGDRCQdAOtaSz26HKJgyylHsIoAiEA9kEJjTCOPHQEf2G8HuWdErYCs77n-v_VulqRdDTPGfc%3D/lsparams/hls_chunk_host,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/ACuhMU0wRAIgCtl9MP3ifoUJCCBwbxx-ZVGx2_cgEmTshoCjq3w_v50CICXS2ayDvwOL8KJoENLFRAwXFvHdq7DpJggeFQUq9uZd/playlist/index.m3u8",
+    "logo": "https://alkafeel.tv/logo.ico"
+  },
+  {
+    "id": "",
+    "name": "Vorterix",
+    "alt_names": [
+      ""
+    ],
+    "network": "",
+    "owners": [
+      ""
+    ],
+    "country": "AR",
+    "subdivision": "",
+    "city": "Buenos Aires",
+    "broadcast_area": [
+      ""
+    ],
+    "languages": [
+      "spa"
+    ],
+    "categories": [
+      "Argentina"
+    ],
+    "is_nsfw": false,
+    "launched": "2016-07-28",
+    "closed": "2020-05-31",
+    "replaced_by": "",
+    "website": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1746825366/ei/NhweaMLTCYi2kucP49CMwQM/ip/172.190.214.19/id/6v5tphU_Hl8.1/itag/301/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D299/rqh/1/hls_chunk_host/rr2---sn-vgqsrnz7.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AecWEAZ_XiZnw0ejbKyrKCOD0Ix4Hj9RbgoutitX6A3ddALfw_j3VIGClM4D_eUGZsu0W6NKYpH3yeAx/spc/wk1kZvJpnWKf1Dvp9SgR3Vr7oqep4CD9mGBKknuN-siUYZLgbZqrBx38eFcSC9s/vprv/1/playlist_type/DVR/met/1746803766,/mh/tb/mm/44/mn/sn-vgqsrnz7/ms/lva/mv/u/mvi/2/pl/23/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912/mt/1746803126/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRgIhALM100sEQrBWcNUB8bv-0oW6ViPbp71Yw7DwoXyeXJo8AiEAo02CeEdhle6l4EXZB_dHv5txgQZB8XZ5th-v9tZ90JE%3D/lsparams/hls_chunk_host,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/ACuhMU0wRQIgTA6wJBdSpHqh3uqKvkETqoEi0LtN_glNGyPWLNiagUQCIQCIIS8os5Gu5C03BDeIpS46BGkNqb5AyJECC2CyH_FdCA%3D%3D/playlist/index.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Vorterix.jpg"
+  }
+]
