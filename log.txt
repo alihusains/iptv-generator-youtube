@@ -1,3 +1,3 @@
-2025-12-24 15:17:53,024 - debug - URL Streams https://www.youtube.com/@alkafeelnet/live: {}
-2025-12-24 15:17:53,982 - debug - URL Streams https://www.youtube.com/@SaudiQuranTv/live: {}
-2025-12-24 15:17:54,700 - debug - URL Streams https://www.youtube.com/@VorterixOficial/live: {}
+2025-12-24 18:25:20,799 - debug - URL Streams https://www.youtube.com/@alkafeelnet/live: {}
+2025-12-24 18:25:30,750 - error - URL Error https://www.youtube.com/@SaudiQuranTv/live: Unable to open URL: https://www.youtube.com/@SaudiQuranTv/live (502 Server Error: Bad Gateway for url: https://www.youtube.com/@SaudiQuranTv/live)
+2025-12-24 18:25:34,487 - debug - URL Streams https://www.youtube.com/@VorterixOficial/live: {}
